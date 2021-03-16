@@ -1,0 +1,23 @@
+{
+  "name": "Rest-Api-CSNg-Games",
+  "version": "1.0.0",
+  "description": "Rest Api projetos video games.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CesarSNg/Rest-Api-CSNg-Games.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CesarSNg/Rest-Api-CSNg-Games/issues"
+  },
+  "homepage": "https://github.com/CesarSNg/Rest-Api-CSNg-Games#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
