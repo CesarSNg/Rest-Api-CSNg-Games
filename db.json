@@ -1,22 +1,57 @@
 {
-  "jogos": [
+  "Personagens":[
     {
-      "id": 1,
-      "nome": "Super Mário",
-      "genero": "Aventura",
-      "rating": 10
+      "id":1,
+      "nome": "Chaves",
+      "nomereal":"Roberto Gómez",
+      "idade":"12"
     },
     {
-      "descricao": "Fifa 20",
-      "genero": "Esportes",
-      "rating": 7,
-      "id": 4
+      "id":2,
+      "nome": "Quico",
+      "nomereal":"Carlos Villagrán",
+      "idade":"13"
     },
     {
-      "nome": "Lol",
-      "genero": "Moba",
-      "rating": 10,
-      "id": 6
+      "id":3,
+      "nome": "Chiquinha",
+      "nomereal":"Maria Antonieta",
+      "idade":"11"
+    },
+    {
+      "id":4,
+      "nome": "Seu Madruga",
+      "nomereal":"Ramón Valdés",
+      "idade":"48"
+    }
+
+  ],
+  "Narradores": [
+    {
+      "id": 5,
+      "nome": "María Antonieta de Las Nieves",
+      "ano": "(1973)",
+      "tema de abertura": "The Elephant Never Forgets"
+    },
+    {
+      "id": 6,
+      "nome": "Florinda Meza",
+      "ano": "(1973 – 74)",
+      "tema de abertura": "The Elephant Never Forgets"
+    },
+    {
+      "id": 7,
+      "nome": "Jorge Gutiérrez Zamora",
+      "genero": "(1973/74 – 79)",
+      "tema de abertura": "The Elephant Never Forgets"
+    },
+    {
+      "id": 8,
+      "nome": "Rubén Aguirre",
+      "genero": "(1979 – 80)",
+      "tema de abertura": "The Elephant Never Forgets"
     }
   ]
+
+  
 }
